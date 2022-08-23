@@ -1,2 +1,2 @@
 # converter
-Converts basic lengths
+Converts between cm, inch, feet, and cubit
